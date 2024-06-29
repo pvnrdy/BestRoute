@@ -78,3 +78,5 @@ To choose a mode, follow the on-screen instructions after running the JAR file.
 3. Running Tests:
 - The application executes predefined tests to verify the correctness of the shortest delivery time calculation.
 - Tests are based on sample data and expected outcomes.
+
+4. Test Commit
